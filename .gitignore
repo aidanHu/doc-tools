@@ -1,0 +1,9 @@
+# Environment variables
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class 
+.DS_Store
+/01-Pic&Video/03-PicFix/图床链接
